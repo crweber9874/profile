@@ -6,7 +6,8 @@ Leslie Blackie, PhD graduated with her PhD in Cell andMolecular Biology from UC 
 ## Karen McGinnis
 Karen McGinnis is an associate professor of biology at Florida State University in Tallahassee, FL.  She is also the associate chair of undergraduate studies in the department of biological science.  Her research focuses on molecular genetics and genomics of maize.
 ## Chris Weber
-Chris Weber
+Chris Weber is an Associate Professor in the School of Government and Public Policy. He received his PhD in Political Science from Stony Brook University in 2008. He specializes in political psychology, and political behavior, with a focus on American political campaigns and ideology. He has taught graduate and undergraduate courses on political psychology, the mass media, and research methods. He currently serves as Director of Graduate Studies in SGPP, and is co-editor at _Political Psychology._
+
 ## Lester Young
 Lester Young is a Professional Research Associate in the Flax Breeding Program at the University of Saskatchewan. His work utilizes genomics, molecular biology and bioinformatics to develop improved flax lines. Current research projects include characterizing genetic loci for disease resistance and introducing germplasm from wild flax species to increase the genetic diversity of domesticated cultivars.
 
@@ -31,3 +32,4 @@ Management of Intellectual Property:  Each university will decide whether to fil
 
 ## Lester Young DMP
 The Flax Breeding Program does not have a published DMP, however, many of the collaborative research projects have released NGS data to publically accessible databases such as NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). We are also involved in Genome BC's [DivSeek project](https://github.com/DivSeek-Canada) which has developed tools to make plant genomic data more accessible. 
+
